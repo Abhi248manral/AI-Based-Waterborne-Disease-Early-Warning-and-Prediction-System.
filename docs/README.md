@@ -13,7 +13,7 @@ title: Disease outbreak prediction using machine learning techniques
 
 #### Team
 
-- Gautum Chand, [email](manralabhisekh17@gmail.com)
+- Abhisekh Manral, [email](manralabhisekh17@gmail.com)
 - Srishti Sachan, [email](srishtisachan702@gmail.com)
 - Rahul Tiwari, [email](rahulnavinhema@gmail.com)
 - Gautum Chand, [email](chandgautam64@gmail.com)
