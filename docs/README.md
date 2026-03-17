@@ -3,24 +3,20 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques
-title: Dengue outbreak prediction in Sri Lanka using machine learning techniques
+repository-name: e18-4yp-Disease-outbreak-prediction-using-machine-learning-techniques
+title: Disease outbreak prediction using machine learning techniques
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Dengue outbreak prediction in Sri Lanka using machine learning techniques
+# Disease outbreak prediction using machine learning techniques
 
 #### Team
 
-- e18181, K.M.S.L.Konara, [email](mailto:e18181@eng.pdn.ac.lk)
-- e18224, G.D.R.Mihiranga, [email](mailto:e18224@eng.pdn.ac.lk)
-- e18368, H.U.Uduwanage, [email](mailto:e18368@eng.pdn.ac.lk)
-
-#### Supervisors
-
-- Dr. S.N.Karunarathna, [email](mailto:namal@eng.pdn.ac.lk)
-- I.U.Ekanayake, [email](mailto:imeshuek@eng.pdn.ac.lk)
+- Gautum Chand, [email](manralabhisekh17@gmail.com)
+- Srishti Sachan, [email](srishtisachan702@gmail.com)
+- Rahul Tiwari, [email](rahulnavinhema@gmail.com)
+- Gautum Chand, [email](chandgautam64@gmail.com)
 
 #### Table of content
 
@@ -137,11 +133,5 @@ Through the development of a predictive model that integrates environmental fact
 ## Links
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
-
-- [Project Repository](https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques)
-- [Project Page](https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques)
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
-
 [//]: # "Please refer this to learn more about Markdown syntax"
 [//]: # "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
