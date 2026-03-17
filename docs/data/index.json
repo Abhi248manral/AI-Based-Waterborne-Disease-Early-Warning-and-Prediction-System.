@@ -1,0 +1,37 @@
+{
+    "team": [
+        {
+            "name": "K.M.S.L.Konara",
+            "email": "e18181@eng.pdn.ac.lk",
+            "eNumber": "E/18/181"
+        },
+        {
+            "name": "G.D.R.Mihiranga",
+            "email": "e18224@eng.pdn.ac.lk",
+            "eNumber": "E/18/224"
+        },
+        {
+            "name": "H.U.Uduwanage",
+            "email": "e18368@eng.pdn.ac.lk",
+            "eNumber": "E/18/368"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. S.N.Karunarathna",
+            "email": "namal@eng.pdn.ac.lk"
+        },
+        {
+            "name": "I.U.Ekanayake",
+            "email": "imeshuek@eng.pdn.ac.lk"
+        }
+    ],
+    "media": [
+        {
+            "type": "youtube",
+            "title": "",
+            "url": "#"
+        }
+    ],
+    "tags": ["Final Year Projects"]
+}
