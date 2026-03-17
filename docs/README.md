@@ -3,7 +3,7 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e18-4yp-Disease-outbreak-prediction-using-machine-learning-techniques
+repository-name: AI-Based-Waterborne-Disease-Early-Warning-and-Prediction-System
 title: Disease outbreak prediction using machine learning techniques
 ---
 
